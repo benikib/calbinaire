@@ -1,0 +1,116 @@
+.buttonB {
+    width: 99px;
+    height: 45px;
+
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 2px blue;
+
+
+}
+
+.b1,
+.b2 {
+    font-size: 20px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("ddmarien4.jpg");
+}
+
+.b2 {
+    border-left: 1px solid black;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+
+.b1 {
+    border-right: 1px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+span {
+    border-top: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    width: 25%;
+
+
+}
+
+
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#affichage {
+    height: 70px;
+    border: 1px solid blue;
+    padding-top: 10px;
+
+
+}
+
+th {
+    padding: 10px;
+}
+
+a {
+    border-top: 1px solid black;
+    display: inline-block;
+    padding: 3px;
+
+
+}
+
+#para {
+    border-right: 1px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 20px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
+    font-weight: bold;
+
+
+}
+
+.tbverite tr {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.tbverite th {
+    color: blue;
+}
+
+.tbverite {
+    border-collapse: collapse;
+
+}
+
+.curseur {
+    height: 30px;
+    width: 2px;
+    border: 1px solid red;
+}
