@@ -29,8 +29,8 @@
 			</td>
 			<td colspan="">
 				<div class="buttonB">
-					<div id="barb">__</div>
-					<div id="ba">0</div>
+					<div id="barb"></div>
+					<div id="b2" style="margin-top: 15px; color:red;">SupAll</div>
 				</div>
 			</td>
 		</tr>
